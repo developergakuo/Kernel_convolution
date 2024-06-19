@@ -1,1 +1,1 @@
-# Kernel convolution with C and GPU
+# Kernel convolution with CPU and GPU
